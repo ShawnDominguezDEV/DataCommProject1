@@ -1,0 +1,2 @@
+# DataCommProject1
+The first project assigned in a Data Communications course at Texas State University. With a provided mock business, we were tasked with creating a layout and plan to create a fully functional network into their building. The objective of this project was to identify what information we were not provided with that would benefit us in implementing the best possible network solution for the business.
